@@ -20,3 +20,17 @@ dstack config --token <token>
 ```
 dstack run hello
 ```
+
+7. Wait until the run is finished
+
+8. Check the `Logs` of the run
+
+You'll see the following output:
+
+```
+output
+output/1
+output/1/data.txt
+output/2
+output/2/data.txt
+```

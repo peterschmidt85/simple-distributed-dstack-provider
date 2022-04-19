@@ -1,0 +1,5 @@
+# Usage
+
+```
+dstack run hello
+```

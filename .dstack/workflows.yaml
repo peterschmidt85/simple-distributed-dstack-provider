@@ -1,0 +1,5 @@
+workflows:
+  - name: hello
+    provider: hello
+    artifacts:
+      - output
